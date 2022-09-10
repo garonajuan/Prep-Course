@@ -1,1 +1,9 @@
-Variable: 
+Variable: Pieza de información que yo v oy a crear y a la que voy a poder acceder mas adelante. Se puede modificar cuantas veces quieras.
+
+Strings: Es un tipo de dato para definir variables. Se escribe entre comillas y suelen ser palabras que a la hora de interactuar, se compportan como un hilo de caracteres.
+
+Funciones (argumentos, return): Sirven para agrupar código que voy a reutilizar. Reciben argumentos (variables dentro de la función) y pueden devolver un resultado si la terminamos con la palabra clave "return".
+
+Declaraciones(if): Actúa como condicional. Compara dos o mas condiciones y dependiendo cual de ellas se cumpla, va a devolver tal o cual resultado.
+
+Valores booleanos (true, false): Cómo el nombre lo indica, toda comparación tiene un resultado: "Verdadero" o "Falso". Si el resultado es "Verdadero", se va a activar una pieza de código. Si el resultado es "Falso" se va a activar otra.
