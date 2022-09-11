@@ -1,0 +1,16 @@
+&& || !: Son operadores lógicos que sirven para comparar expresiones y devolver un resultado verdadero o falso.
+
+El "&&" signfica "y", y quiere decir que las expresiones se deben cumplir todas, para que el resultado devuelto sea "true". Si al menos una de ellas no se cumple, devuelve "false".
+Por ejemplo: Para que alguien pueda manejar, tiene que tener mas de 18 años && no estar borracho.
+Si una de esas dos cosas (o las dos) no se cumplen. El resultado es falso.
+
+El "||" significa "o". Quiere decir que alcanza con que una de las dos expresiones se cumplan para devolver "true". La unica forma de que devuelva false, es que ninguna se cumpla.
+Por ejemplo. Si yo te pregunto: Queres agua o jugo? Para que yo pueda darte una de las dos cosas, vos tenes que querer tomar una de esas dos cosas. Si ante ambas opciones, vos no queres nada, el resultado es false. Si queres solo agua, el resultado es true porque te voy a poder dar algo para tomar. Si queres ambas cosas, tambien te voy a poder dar algo para tomar. Pero si no queres ninguna, no.
+
+El "!" denota negacion a una expresion, o "distinto" a otro operador.
+Por ejemplo, yo yo digo: !10 == 10, va a devolver falso, ya que el primer 10 esta negado. Un no-diez, no puede ser igual a un diez. Lo mismo que si yo pongo la exclamacion en el operador:
+10 !== 10. Esa expresion quiere decir que diez es distinto a diez. Devuelve falso, poque 10 es igual a 10.
+
+
+FOR: Sirve para que mientras una condicion se cumpla, se ejecuten lineas de codigo, que sin esta herramienta, serian muy repetitivas de hacer. Para ello hay que crear la condicion, dando un punto de partida, un punto de llegada, y el incremento correspondiente. Por ejemplo, la vida laboral: Desde que tu edad = 18, y hasta que edad < 75, vos vas a trabajar todos los años (edad = edad + 1). Cuando llegas a 75, te jubilas, es decir que esa condicion deja de cumplirse, entonces dejas de sumar años laborales.
+
