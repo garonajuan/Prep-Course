@@ -1,0 +1,5 @@
+ARRAYS: Un array es una "lista" de elementos ordenados. Puede recibir cualquier tipo de dato, inclusive una lista misma. Se puede crear una lista vacia e ir agregandole datos con diferentes funciones u operadores.
+Podemos acceder a dichos datos, tambien de multiples formas para poder utilizarlos. 
+Los arrays, en general se alojan bajo una variable.
+
+
