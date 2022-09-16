@@ -1,0 +1,10 @@
+Objetos: Un objeto es un conjunto de datos, que permite acumularlos en una lista que no depende del orden para invocarse. Cada dato (valor) esta acompañado de una propiedad, que puede repetirse en otros objetos para que sea mas facil invocar datos que tengan en comun la misma propiedad.
+
+Propiedades: Una propiedad es el "que" de un dato/valor. Ante la pregunta: Que es este dato? surge como respuesta el nombre de la propiedad. Por ejemplo, que es "Abogado". Es una profesion. Esa es la propiedad del valor: "abogado".
+
+Métodos: Los métodos son piezas de código que realizan una accion. Es otra forma de llamar a las funciones. En general van acompañados de dos parentesis y puede reutilizarse a traves de todo el codgio cuando se los necesite. Por ejemplo, sin necesitas multiplicar cosas, creas un metodo multiplicar(), y cada vez que necesites una multiplicacion lo usas.
+
+Bucle for…in: Un bucle for in es lo que nos permite acceder a todos los elementos de un objeto. Es como cualquier bucle for, que nos permitia acceder al arreglo, pero en lugar de recibir un contador, define una variable, en la que va a almacenar los valores del objeto, seguido de el nombre del objeto. 
+
+Notación de puntos vs notación de corchetes: Ambas son formas de acceder a una propiedad de un objeto.
+Notacion de puntos es mas sencilla ya que se accede con el nombre del objeto acompañado de un punto y el nombre de la propiedad, pero esta forma solo permite acceder a las propiedades literales del objeto. A diferencia de la notacion de corchetes, que permite tomar variables para acceder a propiedades.
