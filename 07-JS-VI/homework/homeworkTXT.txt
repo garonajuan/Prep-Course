@@ -1,0 +1,2 @@
+callbacks: Los callbacks son funciones que se pasan como parametros de otras funciones.
+son muy importantes ya que sirven
