@@ -1,0 +1,50 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(https://img.freepik.com/free-vector/paper-style-white-monochrome-background_52683-66443.jpg?w=2000&t=st=1663879490~exp=1663880090~hmac=ad790d0b45bdfec5ce60479fc445df3de90f2c6bd2605535ededd009c3ee8ae7);
+}
+
+h1 {
+  color: darkred;
+  text-align: center;
+}
+h3,
+h4 {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: lightcoral;
+  padding: 50px;
+  border: 10px solid black;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+
+ul {
+  list-style: none;
+}
+span,
+a {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+}
